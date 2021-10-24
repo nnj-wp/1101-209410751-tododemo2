@@ -465,3 +465,17 @@ https://herokucrown51.herokuapp.com/api_51/Category_51
      . Github page URL
      . Chrome 圖片有關 Github page 執行路由 / 結果
      . Chrome 圖片有關 Github page 執行路由 /shop_xx 結果
+
+```
+Github repo URL =>
+https://github.com/nnj-wp/1101-209410751-tododemo2.git
+```
+
+```
+Github page =>
+https://nnj-wp.github.io/1101-209410751-tododemo2/
+```
+
+![](https://res.cloudinary.com/dpnl3hnc2/image/upload/v1635088338/20211024_2_nyn2sc.png)
+
+![](https://res.cloudinary.com/dpnl3hnc2/image/upload/v1635088338/20211024_2_nyn2sc.png)
