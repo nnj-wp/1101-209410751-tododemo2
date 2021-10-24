@@ -1,11 +1,12 @@
 import React from 'react';
 
 import Directory_51 from '../components/Directory_51';
+import Directory2_51 from '../components/Directory2_51';
 
 const Homepage_51 = () => {
   return (
     <div className="homepage">
-      <Directory_51 />
+      <Directory2_51 />
     </div>
   );
 };
