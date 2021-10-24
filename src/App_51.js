@@ -10,13 +10,14 @@ import ContactPage_51 from './pages/ContactPage_51';
 function App_51() {
   return (
     <div>
-      <Header_51 />
+      <ShopOverviewPage_51 />
+      {/* <Header_51 />
       <Switch>
         <Route exact path="/" component={Homepage_51} />
         <Route exact path="/shop_51" component={ShopOverviewPage_51} />
         <Route exact path="/contact_51" component={ContactPage_51} />
         <Route exact path="/signin_51" component={SiginPage_51} />
-      </Switch>
+      </Switch> */}
     </div>
   );
 }
